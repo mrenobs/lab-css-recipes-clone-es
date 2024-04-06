@@ -1,0 +1,34 @@
+*body{
+    margin: 0;
+    padding: 0;
+}
+.titulo{
+    position: absolute;
+    left: 500px;
+    top:90px;
+    padding: 0;
+    color: white;
+    font-size: 5em;
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.principio{
+
+}
+.foto2{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+    border-bottom: solid 10px lightgray;
+   
+
+}
+
+.foto3{
+    display: flex;
+    justify-content: center;
+    border-bottom: solid 10px lightgrey;
+}
